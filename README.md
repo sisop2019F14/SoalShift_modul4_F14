@@ -53,6 +53,7 @@ b. Tepat saat file system akan di-unmount
 
 Jawab:
 
+--belum selesai--
 
 -3
 
@@ -92,3 +93,4 @@ Ketika mengedit suatu file dan melakukan save, maka akan terbuat folder baru ber
 
 Jawab:
 
+--Belum selesai--
