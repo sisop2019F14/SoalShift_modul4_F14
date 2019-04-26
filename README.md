@@ -70,9 +70,9 @@ Jawab:
 
 - membuat fungsi untuk melakukan enkripsi dari folder baru untuk mendapatkan path dari file folder AFSHiaAP.
 
--membuat fungsi untuk membaca owner dan group name dengan ketentuan seperti di soal, lalu dilihat apakah file tersebut bisa dibaca atau tidak.
+- membuat fungsi untuk membaca owner dan group name dengan ketentuan seperti di soal, lalu dilihat apakah file tersebut bisa dibaca atau tidak.
 
--jika Owner Name bernama ‘chipset’ atau ‘ic_controller’ dan Group Name bernama ‘rusak’, dan file tidak bisa dibaca, maka file tersebut dihapus.
+- jika Owner Name bernama ‘chipset’ atau ‘ic_controller’ dan Group Name bernama ‘rusak’, dan file tidak bisa dibaca, maka file tersebut dihapus.
 
 -4
 
